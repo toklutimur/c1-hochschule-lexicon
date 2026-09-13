@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "generated": "scripts/build-lexicon.mjs — do not edit by hand",
+  "entries": 31889,
+  "forms": 102725,
+  "shards": 785,
+  "withTurkish": 20321,
+  "sources": [
+    "FreeDict deu-tur (GNU GPL) — Erdal Ronahi u.a.",
+    "Wiktionary, German edition (CC BY-SA / GFDL), extracted with wiktextract"
+  ]
+}
